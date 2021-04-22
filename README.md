@@ -1,0 +1,1 @@
+# Program-to-check-Triangle-is-Equilateral-Isosceles-Scalene-.
